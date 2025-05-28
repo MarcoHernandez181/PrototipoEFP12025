@@ -40,7 +40,7 @@ int main() {
         cout << "\n=========== MENÚ GENERAL ===========\n";
         cout << "Usuario: " << nombreUsuario << "\n";
         cout << "1. Catalogo\n";
-        cout << "2. Informes\n";
+        cout << "2. Gestion Usuario\n";
         cout << "3. Seguridad\n";
         cout << "4. Salir de sesion\n";
         cout << "====================================\n";
@@ -58,7 +58,7 @@ int main() {
                 do {
                     system("cls");
                     cout << "\n=========== MENÚ DE PROCESOS ===========\n";
-                    cout << "1. Facturacion\n";
+
                     cout << "2. Gestion de usuarios\n";
                     cout << "3. Volver al menú general\n";
                     cout << "========================================\n";

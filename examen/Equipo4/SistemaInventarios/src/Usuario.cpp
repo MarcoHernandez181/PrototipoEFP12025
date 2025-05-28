@@ -60,6 +60,7 @@ bool usuarios::loginUsuarios()
         {
             ingresa = true;
             cout << "\n=== Bienvenido al Sistema ===" << endl;
+            cout << "\n=== MARCO ANTONIO HERNANDEZ TEVELAN 9959 24 62 01 ===" << endl;
             bitacora auditoria;
             auditoria.insertar(name, 100, "LOGS", "Inicio exitoso");
             cin.get();

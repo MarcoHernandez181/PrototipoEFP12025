@@ -39,7 +39,6 @@
 		<Unit filename="include/Inventario.h" />
 		<Unit filename="include/Menu.h" />
 		<Unit filename="include/Producto.h" />
-		<Unit filename="include/Proveedor.h" />
 		<Unit filename="include/Usuario.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Bitacora.cpp" />
@@ -47,7 +46,6 @@
 		<Unit filename="src/Inventario.cpp" />
 		<Unit filename="src/Menu.cpp" />
 		<Unit filename="src/Producto.cpp" />
-		<Unit filename="src/Proveedor.cpp" />
 		<Unit filename="src/Usuario.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
