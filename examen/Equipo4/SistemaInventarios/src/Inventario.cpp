@@ -44,10 +44,10 @@ void Inventario::mostrarInventarioGeneral() {
     ofstream backup("kardex_backup.bin", ios::binary | ios::app);
     if (!backup) {
         cerr << "Error al crear archivo de backup" << endl;
-    } //Eliminacion tabla Kardex para ver en kardex_backup.txt
+    }
 
     cout << "==================================================================\n";
-    cout << "| KARDEX GENERAL - INVENTARIO COMPLETO                         |\n";
+    cout << "|  - INVENTARIO COMPLETO                         |\n";
     cout << "==================================================================\n";
     cout << "| Cod | Nombre       | Precio  | Stock | Entradas | Salidas | Total  |\n";
     cout << "|-----|--------------|---------|-------|----------|---------|--------|\n";

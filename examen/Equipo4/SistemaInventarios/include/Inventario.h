@@ -1,4 +1,4 @@
-
+#ifndef INVENTARIO_H
 #define INVENTARIO_H
 
 #include <vector>
@@ -25,7 +25,6 @@ public:
     void movimientoBodega(int codigo, int cantidad, bool esEntrada);
     void mostrarMovimientosBodega();
     void mostrarKardexBodega();
-
 
     ~Inventario();
 };
