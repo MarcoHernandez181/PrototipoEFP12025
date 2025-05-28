@@ -1,0 +1,43 @@
+commit 0d144e25036aa61d9e1345271d82a920284b8790
+Author: Marco Hernandez <mhernandezt23@miumg.edu.gt>
+Date:   Wed May 21 09:35:55 2025 -0600
+
+    Implementación de archivos bonarios kardex y bodega
+
+commit abbfc9ed74aff0b90c952e927d6ac53477959d78
+Merge: aba666a 6a31161
+Author: Marco Hernandez <mhernandezt23@miumg.edu.gt>
+Date:   Wed May 21 09:05:41 2025 -0600
+
+    Implementacion de archivos binarios
+
+commit aba666ad12c0858afb29ca00c121a466d4381d11
+Merge: 542e352 9deb7fe
+Author: Marco Hernandez <mhernandezt23@miumg.edu.gt>
+Date:   Wed May 21 08:56:13 2025 -0600
+
+    Merge branch 'main' of https://github.com/KevinRLE/Proyectop12k25 into Grupo4
+
+commit 542e352e037b1c44967b7277f39cb6f7f593547d
+Author: Marco Hernandez <mhernandezt23@miumg.edu.gt>
+Date:   Wed May 21 08:44:10 2025 -0600
+
+    Implementacíón de binarios en bitacora y kardex
+
+commit 10175e25d4318a6c3d35837fb3a4b916c9ce94db
+Author: Marco Hernandez <mhernandezt23@miumg.edu.gt>
+Date:   Tue May 20 21:20:56 2025 -0600
+
+    Actualizacion a binario Backup y bodega. Ademas nueva opcion de agregar producto by Marco Hernandez
+
+commit f88d937f3784fa0adffaeaa9eb062c1eb7e6856e
+Author: Marco Hernandez <mhernandezt23@miumg.edu.gt>
+Date:   Sun May 11 17:29:59 2025 -0600
+
+    aburrido
+
+commit 7e5bec2d4eb978874a43724f3dcd5f8a27143f11
+Author: Marco Hernandez <mhernandezt23@miumg.edu.gt>
+Date:   Fri May 2 18:48:33 2025 -0600
+
+    Inventario/salidas by Marco Hernandez

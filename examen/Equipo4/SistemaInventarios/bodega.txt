@@ -1,0 +1,7 @@
+1,zapato,ENTRADA,2,202
+2,camisa,ENTRADA,0,221
+1,zapato,ENTRADA,3,205
+1,zapato,SALIDA,3,202
+2,camisa,ENTRADA,1,222
+5,calcetines,ENTRADA,1,21
+1,zapato,ENTRADA,5,207
