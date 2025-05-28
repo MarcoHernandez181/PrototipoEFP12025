@@ -648,3 +648,95 @@
 	"Menu.h"
 	"Bitacora.h"
 
+1748451839 source:c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\main.cpp
+	<iostream>
+	"Usuario.h"
+	"Inventario.h"
+	"Facturacion.h"
+	"Bitacora.h"
+	"Menu.h"
+
+1748451839 c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\include\usuario.h
+	<string>
+
+1748452063 c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\include\inventario.h
+	<vector>
+	<string>
+	"Producto.h"
+
+1748451839 c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\include\producto.h
+	"Bitacora.h"
+	<string>
+
+1748451839 c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\include\bitacora.h
+	<iostream>
+
+1748451839 c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\include\facturacion.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Inventario.h"
+
+1748451839 c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\include\menu.h
+	<iostream>
+	"Inventario.h"
+	"Facturacion.h"
+
+1748451839 source:c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+	<ctime>
+	<vector>
+	<sstream>
+	<cstring>
+
+1748451839 source:c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\src\facturacion.cpp
+	"Facturacion.h"
+
+1748451910 source:c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\src\inventario.cpp
+	"Inventario.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<cstdlib>
+	<map>
+	<ctime>
+	<iomanip>
+
+1748451839 source:c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\src\menu.cpp
+	"Menu.h"
+	"Bitacora.h"
+
+1748451839 source:c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\src\producto.cpp
+	"Producto.h"
+
+1748451839 source:c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\src\proveedor.cpp
+	"Proveedor.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<vector>
+	<cstdlib>
+	<conio.h>
+
+1748451839 c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\include\proveedor.h
+	<string>
+	"Bitacora.h"
+
+1748451839 source:c:\users\macoh\onedrive\documents\nuevo1\prototipoefp12025\examen\equipo4\sistemainventarios\src\usuario.cpp
+	"Usuario.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	<sstream>
+	"Bitacora.h"
+	<vector>
+
